@@ -1,0 +1,21 @@
+D:\New folder\Dclinic  system\bin\Debug\Dclinic  system.exe.config
+D:\New folder\Dclinic  system\bin\Debug\Dclinic  system.exe
+D:\New folder\Dclinic  system\bin\Debug\Dclinic  system.pdb
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.csproj.AssemblyReference.cache
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Login.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Splash.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Properties.Resources.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.csproj.GenerateResource.cache
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.csproj.CoreCompileInputs.cache
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.exe
+D:\New folder\Dclinic  system\obj\Debug\Dclinic  system.pdb
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Appointment.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Patient.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Treatment.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.User.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.AdminLogin.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.Doctors.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.prescription.resources
+D:\New folder\Dclinic  system\obj\Debug\Dclinic__system.DashBoard.resources
+D:\New folder\Dclinic  system\bin\Debug\Program.cs
